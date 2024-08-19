@@ -1,0 +1,127 @@
+/* Small */
+@media only screen and (min-width: 576px) {
+    .profile {
+        height: 60vw;
+        width: 60vw;
+    }
+
+    .profile .profile-img {
+        height: 65vw;
+    }
+
+    .profile .dots-1 {
+        width: 3vw;
+        right: 1.5vw;
+    }
+
+    .profile .dots-2 {
+        width: 3vw;
+        right: -4vw;
+    }
+
+    .profile .dots-3 {
+        width: 3vw;
+        left: 1.5vw;
+    }
+
+    .profile .dots-4 {
+        width: 3vw;
+        left: -4vw;
+    }
+}
+
+/* Medium */
+@media only screen and (min-width: 768px) {
+    .profile {
+        height: 50vw;
+        width: 50vw;
+    }
+
+    .profile .profile-img {
+        height: 55vw;
+    }
+
+    .profile .dots-1 {
+        width: 3vw;
+        right: 1.5vw;
+    }
+
+    .profile .dots-2 {
+        width: 3vw;
+        right: -4vw;
+    }
+
+    .profile .dots-3 {
+        width: 3vw;
+        left: 1.5vw;
+    }
+
+    .profile .dots-4 {
+        width: 3vw;
+        left: -4vw;
+    }
+}
+
+/* Larger */
+@media only screen and (min-width: 992px) {
+    .profile {
+        height: 40vw;
+        width: 40vw;
+    }
+
+    .profile .profile-img {
+        height: 45vw;
+    }
+
+    .profile .dots-1 {
+        width: 1.5vw;
+        right: 0.75vw;
+    }
+
+    .profile .dots-2 {
+        width: 1.5vw;
+        right: -2vw;
+    }
+
+    .profile .dots-3 {
+        width: 1.5vw;
+        left: 0.75vw;
+    }
+
+    .profile .dots-4 {
+        width: 1.5vw;
+        left: -2vw;
+    }
+}
+
+/* Extra large */
+@media only screen and (min-width: 1200px) {
+    .profile {
+        height: 35vw;
+        width: 35vw;
+    }
+
+    .profile .profile-img {
+        height: 40vw;
+    }
+
+    .profile .dots-1 {
+        width: 1.5vw;
+        right: 0.75vw;
+    }
+
+    .profile .dots-2 {
+        width: 1.5vw;
+        right: -2vw;
+    }
+
+    .profile .dots-3 {
+        width: 1.5vw;
+        left: 0.75vw;
+    }
+
+    .profile .dots-4 {
+        width: 1.5vw;
+        left: -2vw;
+    }
+}
